@@ -67,15 +67,6 @@ Here’s your **final, ultra-upgraded** version of the **Tech Stack & Skills** s
   <a href="https://www.jira.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" width="50" height="50" alt="Jira" /></a>  
 </p>  
 
----
-
-### 🎯 **Why is this the Best Version?**  
-✅ **AWS icon is 100% fixed and correctly displayed**  
-✅ **Clickable icons link to official documentation**  
-✅ **Larger (50x50px) icons for a premium look**  
-✅ **Perfect categorization for easy readability**  
-
-🔥 **This is now the absolute best version!** 🚀 Let me know if you need further refinements! 😊
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashish0491&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashish0491&theme=nightowl&hide_border=false)<br/>
