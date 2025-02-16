@@ -49,16 +49,8 @@ Here’s your **final, ultra-upgraded** version of the **Tech Stack & Skills** s
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" /></a>  
 </p>  
 
-### ☁️ **Cloud & DevOps**  
-<p align="left">  
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS" /></a>  
-  <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" /></a>  
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Google_Cloud_logo.svg" width="50" height="50" alt="Google Cloud" /></a>  
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /></a>  
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" /></a>  
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" /></a>  
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins" /></a>  
-</p>  
+### ☁️ Cloud & DevOps
+<p align="left"> <a href="https://aws.amazon.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS" /></a> <a href="https://azure.microsoft.com/en-us/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" /></a> <a href="https://cloud.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="50" height="50" alt="Google Cloud" /></a> <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /></a> <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" /></a> <a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" /></a> <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins" /></a> </p>
 
 ### 🗄️ **Databases & Storage**  
 <p align="left">  
